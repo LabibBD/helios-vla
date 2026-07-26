@@ -1,0 +1,17 @@
+{
+  "episodes": 30,
+  "max_attempts": 3,
+  "first_attempt_successes": 20,
+  "first_attempt_success_rate": 0.6666666666666666,
+  "final_successes": 26,
+  "final_success_rate": 0.8666666666666667,
+  "failed_first_attempts": 10,
+  "recovered_failures": 6,
+  "recovery_rate": 0.6,
+  "absolute_success_gain": 0.20000000000000007,
+  "mean_attempts": 1.5333333333333334,
+  "mean_total_steps": 293.26666666666665,
+  "mean_elapsed_s": 6.355796666666667,
+  "recovery_type": "stochastic_checkpoint_retry",
+  "verifier": "LIBERO simulator-state oracle"
+}

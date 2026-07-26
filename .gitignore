@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+
+# ML artifacts
+checkpoints/
+outputs/
+wandb/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Results/videos
+results/raw/
+*.mp4
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# HELIOS development / temporary outputs
+results/baseline_smoke/
+results/baseline_smoke_v2/
+results/baseline_object/videos/
+results/helios_recovery/
+results/helios_recovery_v2/
+results/helios_recovery_v3/
+results/helios_recovery_v4/
+results/demo_internal/
+
+# Local LIBERO assets/datasets
+data/
+datasets/
+
+# Temporary files
+*.log
+*.tmp

@@ -1,0 +1,31 @@
+task_group,task_id,episode_id,episode_seed,first_attempt_success,final_success,recovered,successful_attempt,attempts_used,attempt_successes,attempt_steps,total_steps,elapsed_s,recovery_type,verifier
+libero_object,0,0,1000,True,True,False,1,1,[true],[125],125,5.4425,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,1,1001,True,True,False,1,1,[true],[139],139,3.6922,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,2,1002,False,False,False,0,3,"[false, false, false]","[280, 280, 280]",840,14.5572,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,3,1003,False,False,False,0,3,"[false, false, false]","[280, 280, 280]",840,14.5153,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,4,1004,False,False,False,0,3,"[false, false, false]","[280, 280, 280]",840,14.4345,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,5,1005,False,True,True,3,3,"[false, false, true]","[280, 280, 139]",699,13.5074,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,6,1006,False,True,True,2,2,"[false, true]","[280, 138]",418,8.5052,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,7,1007,True,True,False,1,1,[true],[139],139,3.7075,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,8,1008,True,True,False,1,1,[true],[140],140,3.5795,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,0,9,1009,False,True,True,2,2,"[false, true]","[280, 136]",416,8.4126,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,0,2000,True,True,False,1,1,[true],[125],125,4.4763,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,1,2001,True,True,False,1,1,[true],[125],125,3.378,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,2,2002,True,True,False,1,1,[true],[125],125,3.3325,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,3,2003,True,True,False,1,1,[true],[129],129,3.3671,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,4,2004,True,True,False,1,1,[true],[122],122,3.4035,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,5,2005,True,True,False,1,1,[true],[121],121,3.3963,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,6,2006,False,True,True,2,2,"[false, true]","[280, 118]",398,8.1522,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,7,2007,True,True,False,1,1,[true],[119],119,3.2978,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,8,2008,True,True,False,1,1,[true],[119],119,3.3229,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,1,9,2009,True,True,False,1,1,[true],[120],120,3.2882,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,0,3000,True,True,False,1,1,[true],[116],116,4.5071,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,1,3001,False,False,False,0,3,"[false, false, false]","[280, 280, 280]",840,14.4305,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,2,3002,False,True,True,3,3,"[false, false, true]","[280, 280, 111]",671,13.3501,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,3,3003,False,True,True,2,2,"[false, true]","[280, 111]",391,8.3651,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,4,3004,True,True,False,1,1,[true],[110],110,3.3443,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,5,3005,True,True,False,1,1,[true],[116],116,3.5303,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,6,3006,True,True,False,1,1,[true],[120],120,3.5113,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,7,3007,True,True,False,1,1,[true],[107],107,3.2664,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,8,3008,True,True,False,1,1,[true],[113],113,3.3026,stochastic_checkpoint_retry,LIBERO simulator-state oracle
+libero_object,2,9,3009,True,True,False,1,1,[true],[115],115,3.2975,stochastic_checkpoint_retry,LIBERO simulator-state oracle
